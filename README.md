@@ -5,7 +5,6 @@
 This is a Task Manager Program.<br>
 It can manage multiple tasks for multiple members of a team.<br>
 
-<br>
 The key functions offered within the program are:
 <ul>
   <li>registering new users</li>
@@ -16,15 +15,14 @@ The key functions offered within the program are:
   <li>displaying statistics (e.g. current number of users, current number of tasks).</li>
 </ul>
 
-<br>
-The user must login before using the program.<br>
+The user must login before using the program.
 
-<br>
+<br><br>
 The following username and passord give admin rights if entered:<br> 
 username = admin<br>
-password = password
+password = password<br>
 
-<br>
+<br><br>
 All tasks managed by the program are stored in "tasks.txt", which the program will create
 if the file does not already exist.<br>
 All registered users are listed in "users.txt", which the program will create if the file
