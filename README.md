@@ -1,8 +1,10 @@
 <h1>Task Manager</h1>
 
 <h2>Project Description</h2>
-This is a Task Manager Program.  
-It can manage multiple tasks for multiple members of a team.  
+
+This is a Task Manager Program.<br>
+It can manage multiple tasks for multiple members of a team.<br>
+
 <br>
 The key functions offered within the program are:
 <ul>
@@ -15,16 +17,16 @@ The key functions offered within the program are:
 </ul>
 
 <br>
-The user must login before using the program.
+The user must login before using the program.<br>
 
 <br>
-The following username and passord give admin rights if entered:  
-username - admin  
-password - password
+The following username and passord give admin rights if entered:<br> 
+username = admin<br>
+password = password
 
 <br>
 All tasks managed by the program are stored in "tasks.txt", which the program will create
-if the file does not already exist.  
+if the file does not already exist.<br>
 All registered users are listed in "users.txt", which the program will create if the file
 does not already exist.
 
@@ -32,7 +34,7 @@ does not already exist.
 Please ensure you have installed the latest version of Python. Download the task_manager.py file from this repository. You should then be able to run the Python file directly or via your IDE. 
 
 <h2>Usage Instructions</h2>
-TBA.
+TBA
 
 <h2>Credits</h2>
 This program was inspired by a capstone project I developed as part of HyperionDev's Skills Bootcamp in Software Engineering (Fundamentals).
