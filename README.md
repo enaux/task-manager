@@ -33,8 +33,5 @@ does not already exist.
 <h2>Installation</h2>
 Please ensure you have installed the latest version of Python. Download the task_manager.py file from this repository. You should then be able to run the Python file directly or via your IDE. 
 
-<h2>Usage Instructions</h2>
-TBA
-
 <h2>Credits</h2>
 This program was inspired by a capstone project I developed as part of HyperionDev's Skills Bootcamp in Software Engineering (Fundamentals).
